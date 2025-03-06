@@ -2,7 +2,7 @@
 ## Project Objective
 This project is a dynamic and interactive E-Commerce Sales Dashboard built using Microsoft Power BI. The dashboard visualizes key sales metrics and provides valuable insights to help businesses understand their performance across various dimensions.
 
-⚡## Tech Stack:
+## Tech Stack:
 - Power BI: Data modeling, DAX calculations, and visualization.
 - Data Sources: CSV/Excel files, SQL databases, or live data connections.
 

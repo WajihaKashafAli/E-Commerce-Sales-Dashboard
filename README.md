@@ -2,7 +2,11 @@
 ## Project Objective
 This project is a dynamic and interactive E-Commerce Sales Dashboard built using Microsoft Power BI. The dashboard visualizes key sales metrics and provides valuable insights to help businesses understand their performance across various dimensions.
 
-## ⚡ Tech Stack:
+## 📂 Dataset used
+- <a href="https://github.com/WajihaKashafAli/E-Commerce-Sales-Dashboard/blob/main/Order.csv">Dataset</a>
+- <a href="https://github.com/WajihaKashafAli/E-Commerce-Sales-Dashboard/blob/main/Details.csv">Dataset</a>
+
+## ⚡ Tech Stack
 - Power BI: Data modeling, DAX calculations, and visualization.
 - Data Sources: CSV/Excel files, SQL databases, or live data connections.
 
@@ -23,6 +27,8 @@ Ideal for e-commerce businesses looking to monitor and analyze their sales, unde
 3. Dashboard Design: Built visual elements like bar charts, donut charts, and KPI cards.
 4. Interactivity: Added filters for quarters and states to enable dynamic data exploration.
 5. Validation & Testing: Verified calculations (like sum of profit and average order value) to ensure accuracy.
+
+## Dashboard
 
 ## 🔍 Project Insights:
 - Monthly Profit Trends: Sales and profits fluctuate, with certain months showing sharp drops — indicating potential seasonal impacts or marketing gaps.

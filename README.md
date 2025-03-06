@@ -20,6 +20,7 @@ Ideal for e-commerce businesses looking to monitor and analyze their sales, unde
 - What payment modes are most preferred by customers?
 - What is the distribution of product quantities across categories?
 - How do sales metrics vary across quarters or specific states?
+- Dashboard Interaction <a href="https://github.com/WajihaKashafAli/E-Commerce-Sales-Dashboard/blob/main/Dashboard.PNG">View Dashboard</a>
 
 ## ⚙️ Process
 1. Data Collection: Sales data (including quantity, amount, profit, state, category, sub-category, and payment mode).
@@ -29,6 +30,7 @@ Ideal for e-commerce businesses looking to monitor and analyze their sales, unde
 5. Validation & Testing: Verified calculations (like sum of profit and average order value) to ensure accuracy.
 
 ## Dashboard
+
 
 ## 🔍 Project Insights:
 - Monthly Profit Trends: Sales and profits fluctuate, with certain months showing sharp drops — indicating potential seasonal impacts or marketing gaps.

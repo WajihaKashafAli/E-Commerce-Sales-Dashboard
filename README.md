@@ -20,9 +20,9 @@ Ideal for e-commerce businesses looking to monitor and analyze their sales, unde
 - What payment modes are most preferred by customers?
 - What is the distribution of product quantities across categories?
 - How do sales metrics vary across quarters or specific states?
-- Dashboard Interaction <a href="https://github.com/WajihaKashafAli/E-Commerce-Sales-Dashboard/blob/main/Dashboard.PNG">View Dashboard</a>
-<a href="https://github.com/WajihaKashafAli/E-Commerce-Sales-Dashboard/blob/main/Dashboard-1.PNG">View Dashboard</a>
-<a href="https://github.com/WajihaKashafAli/E-Commerce-Sales-Dashboard/blob/main/Dashboard-2.PNG">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/WajihaKashafAli/E-Commerce-Sales-Dashboard/blob/main/Dashboard.PNG">View Dashboard
+<href="https://github.com/WajihaKashafAli/E-Commerce-Sales-Dashboard/blob/main/Dashboard-1.PNG">View Dashboard
+<href="https://github.com/WajihaKashafAli/E-Commerce-Sales-Dashboard/blob/main/Dashboard-2.PNG">View Dashboard</a>
 
 ## ⚙️ Process
 1. Data Collection: Sales data (including quantity, amount, profit, state, category, sub-category, and payment mode).
@@ -31,7 +31,7 @@ Ideal for e-commerce businesses looking to monitor and analyze their sales, unde
 4. Interactivity: Added filters for quarters and states to enable dynamic data exploration.
 5. Validation & Testing: Verified calculations (like sum of profit and average order value) to ensure accuracy.
 
-## Dashboard
+## 📊 Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/29303346-b3e9-4555-92c5-b4041c92bdaf)
 ![Dashboard-1](https://github.com/user-attachments/assets/146733a8-c6b7-4f92-a045-3955ddf7183b)
 ![Dashboard-2](https://github.com/user-attachments/assets/9f039141-e539-4760-a3b5-7b6c7a1a3be1)

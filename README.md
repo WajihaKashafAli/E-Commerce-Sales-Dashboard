@@ -20,9 +20,9 @@ Ideal for e-commerce businesses looking to monitor and analyze their sales, unde
 - What payment modes are most preferred by customers?
 - What is the distribution of product quantities across categories?
 - How do sales metrics vary across quarters or specific states?
-- Dashboard Interaction <a href="https://github.com/WajihaKashafAli/E-Commerce-Sales-Dashboard/blob/main/Dashboard.PNG">View Dashboard
-<href="https://github.com/WajihaKashafAli/E-Commerce-Sales-Dashboard/blob/main/Dashboard-1.PNG">View Dashboard
-<href="https://github.com/WajihaKashafAli/E-Commerce-Sales-Dashboard/blob/main/Dashboard-2.PNG">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/WajihaKashafAli/E-Commerce-Sales-Dashboard/blob/main/Dashboard.PNG">View Dashboard</a>
+<a href="https://github.com/WajihaKashafAli/E-Commerce-Sales-Dashboard/blob/main/Dashboard-1.PNG">View Dashboard</a>
+<a href="https://github.com/WajihaKashafAli/E-Commerce-Sales-Dashboard/blob/main/Dashboard-2.PNG">View Dashboard</a>
 
 ## ⚙️ Process
 1. Data Collection: Sales data (including quantity, amount, profit, state, category, sub-category, and payment mode).
